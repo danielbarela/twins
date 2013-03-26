@@ -1,4 +1,5 @@
 body {
+  background-image: url('../img/bg.png');
 	background: rgba(120,81,43,255); /* Old browsers */
 }
 
